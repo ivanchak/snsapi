@@ -1,0 +1,10 @@
+{
+  "channel_in" : 
+  [
+    "test_rss" 
+  ], 
+  "channel_out" :
+  [
+    "test_sqlite"
+  ]
+}
